@@ -1857,7 +1857,7 @@
         "aedstate3": "Cargando",
         "aedstate4": "Descarga administrada.\nInicie RCP en el paciente.",
         "aedstate5": "No se recomienda descargar.\nInicie RCP en el paciente.",
-        "minigameExitGuide": "Presiona CLIC IZQUIERDO/ESC para salir",
+        "minigameExitGuide": "Presiona CLIC DERECHO/ESC para salir",
         "saveexit": "Guardar y salir",
         "saveexitdsc": "Guarda tu progreso y toma un descanso.\nLa partida continuará al inicio de la siguiente capa.",
         "savecontinue": "Continuar",
